@@ -1,0 +1,368 @@
+769	0	Scholia	CCONJ	C-		Scholia	ROOT	0
+769	1	in	ADV	Df		in	discourse	0
+769	2	Homeri	ADV	V-		Homeri	parataxis	0
+769	3	Iliadem	ADV	V-		Iliadem	parataxis	0
+769	4	Α	PRON	Pr	Case=Acc|Gender=Neut|Number=Plur|PronType=Rel	Α	nsubj	0
+769	5	129.	PUNCT	Z		129.	punct	0
+769	6	Ζώϊλος	PROPN	Ne	Case=Nom|Gender=Masc|Number=Sing	Ζώϊλος	nsubj	15
+769	7	δὲ	ADV	Df		δέ	discourse	6
+769	8	ὁ	DET	S-	Case=Nom|Definite=Def|Gender=Masc|Number=Sing|PronType=Dem	ὁ	det	9
+769	9	Ἀμφιπολίτης	NOUN	Nb	Case=Nom|Gender=Masc|Number=Sing	Ἀμφιπολίτης	nmod	6
+769	10	καὶ	CCONJ	C-		καί	cc	6
+769	11	Χρύσιππος	PROPN	Ne	Case=Nom|Gender=Masc|Number=Sing	Χρύσιππος	nsubj	10
+769	12	ὁ	DET	S-	Case=Nom|Definite=Def|Gender=Masc|Number=Sing|PronType=Dem	ὁ	det	13
+769	13	Στωϊκὸς	ADJ	A-	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	στωϊκός	appos	11
+769	14	σολοικίζειν	VERB	V-	Tense=Pres|VerbForm=Inf|Voice=Act	σολοικίζω	xcomp	15
+769	15	οἴονται	VERB	V-	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	οἴομαι	ROOT	15
+769	16	τὸν	DET	S-	Case=Acc|Definite=Def|Gender=Masc|Number=Sing|PronType=Dem	ὁ	det	17
+769	17	ποιητὴν	NOUN	Nb	Case=Acc|Gender=Masc|Number=Sing	ποιητής	dep	15
+769	18	ἀντὶ	ADP	R-		ἀντί	case	19
+769	19	ἑνικοῦ	ADJ	A-	Case=Gen|Degree=Pos|Gender=Neut|Number=Sing	ἑνικός	advmod	21
+769	20	πληθυντικῷ	ADJ	A-	Case=Dat|Degree=Pos|Gender=Masc,Neut|Number=Sing	πληθυντικός	amod	21
+769	21	χρησάμενον	VERB	V-	Aspect=Perf|Case=Acc|Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part|Voice=Mid	χράομαι	dep	15
+769	22	ῥήματι	NOUN	Nb	Case=Dat|Gender=Neut|Number=Sing	ῥῆμα	iobj	21
+769	23	·	PUNCT	Z		·	punct	15
+769	24	τὸ	DET	S-	Case=Acc|Definite=Def|Gender=Neut|Number=Sing|PronType=Dem	ὁ	det	27
+769	25	γὰρ	ADV	Df		γάρ	discourse	27
+769	26	δῶσι	VERB	V-	Aspect=Perf|Mood=Sub|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	δίδωμι	xcomp	27
+769	27	φασί	VERB	V-	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	φημί	ROOT	27
+769	28	πληθυντικόν	ADJ	A-	Case=Acc|Degree=Pos|Gender=Neut|Number=Sing	πληθυντικός	xcomp	27
+769	29	·	PUNCT	Z		·	punct	27
+769	30	ἀγνοοῦσι	VERB	V-	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	ἀγνοέω	ROOT	30
+769	31	δὲ	ADV	Df		δέ	discourse	30
+769	32	etc.	PUNCT	Z		etc.	xcomp	30
+770	0	Scholia	ADV	Df		Scholia	ROOT	0
+770	1	in	ADV	Df		in	advmod	0
+770	2	Homeri	ADV	V-		Homeri	advmod	0
+770	3	Iliad.	PUNCT	Z		Iliad.	punct	0
+770	4	Α	INTJ	I-		Α	ROOT	4
+770	5	405.	PUNCT	Z		405.	punct	4
+770	6	ὅς	PRON	Pr	Case=Nom|Gender=Masc|Number=Sing|PronType=Rel	ὅς	nsubj	9
+770	7	ῥα	ADV	Df		ἄρα	discourse	9
+770	8	παρὰ	ADP	R-		παρά	case	9
+770	9	Κρονίωνι	PROPN	Ne	Case=Dat|Gender=Masc|Number=Sing	Κρονίων	ROOT	9
+770	10	·	PUNCT	Z		·	punct	9
+770	11	ὅτι	SCONJ	G-		ὅτι	mark	16
+770	12	ἐντ̣εῦθεν	ADV	Df		ἐντ̣εῦθεν	advmod	16
+770	13	ἐπὶ	ADP	R-		ἐπί	case	15
+770	14	τοῦ	DET	S-	Case=Gen|Definite=Def|Gender=Masc|Number=Sing|PronType=Dem	ὁ	det	15
+770	15	Ἄρεως	PROPN	Ne	Case=Gen|Gender=Masc|Number=Sing	Ἄρης	obl	16
+770	16	λέγεται	VERB	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Pass	λέγω	ROOT	16
+770	17	οὐκ	ADV	Df	Polarity=Neg	οὐ	advmod	18
+770	18	ὀρθῶς	ADV	Df	Degree=Pos	ὀρθῶς	advmod	16
+770	19	(	PUNCT	Pp	Polarity=Neg	(	nsubj:pass	16
+770	20	l.	PUNCT	Z		l.	punct	16
+770	21	Il.	PUNCT	Z		Il.	punct	16
+770	22	Ε	PRON	Pp	Case=Acc|Gender=Masc|Number=Sing|Person=3|PronType=Prs	Ε	ROOT	22
+770	23	906	ADV	V-		906	xcomp	22
+770	24	)	CCONJ	Z		)	cc	22
+770	25	Ὅμηρος	PROPN	Ne	Case=Nom|Gender=Masc|Number=Sing	Ὅμηρος	nsubj	27
+770	26	δέ	ADV	Df		δέ	discourse	27
+770	27	,	PUNCT	Z		,	conj	22
+770	28	ὡς	ADV	Dq	PronType=Rel	ὡς	advmod	29
+770	29	Στωϊκός	ADJ	A-	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	Στωϊκός	conj	22
+770	30	,	PUNCT	Z		,	punct	22
+770	31	Ποσειδῶνος	PROPN	Ne	Case=Gen|Gender=Masc|Number=Sing	Ποσειδῶν	ccomp	34
+770	32	αὐτὸν	PRON	Pp	Case=Acc|Gender=Masc|Number=Sing|Person=3|PronType=Prs	αὐτός	nsubj	34
+770	33	εἶναί	AUX	V-	Tense=Pres|VerbForm=Inf|Voice=Act	εἰμί	dep	34
+770	34	φησι	VERB	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	φημί	ROOT	34
+770	35	.	PUNCT	Z		.	punct	34
+771	0	Scholia	ADV	Df		Scholia	ROOT	0
+771	1	in	ADV	Df		in	advmod	0
+771	2	Hom.	PUNCT	Z		Hom.	punct	0
+771	3	Iliad.	PUNCT	Z		Iliad.	punct	0
+771	4	Θ	CCONJ	C-		Θ	cc	5
+771	5	441.	PUNCT	Df		441.	ROOT	5
+771	6	ἀμβωμοῖσι	NOUN	Nb	Case=Dat|Gender=Masc|Number=Plur	ἀμβωμός	xcomp	11
+771	7	·	PUNCT	Z		·	punct	6
+771	8	Χρύσιππος	PROPN	Ne	Case=Nom|Gender=Masc|Number=Sing	Χρύσιππος	nsubj	11
+771	9	ὑφ’	ADP	R-		ὑφ’	advmod	11
+771	10	ἓν	NUM	Ma	Case=Acc|Gender=Neut|Number=Sing	εἷς	dep	11
+771	11	προφέρεται	VERB	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Mid	προφέρω	ROOT	11
+771	12	,	PUNCT	Z		,	punct	11
+771	13	ὁ	DET	S-	Case=Nom|Definite=Def|Gender=Masc|Number=Sing|PronType=Dem	ὁ	det	15
+771	14	μέντοι	ADV	Df		μέντοι	discourse	15
+771	15	Ἀρίσταρχος	PROPN	Ne	Case=Nom|Gender=Masc|Number=Sing	Ἀρίσταρχος	conj	11
+771	16	δύο	NUM	Ma		δύο	nummod	17
+771	17	μέρη	NOUN	Nb	Case=Acc|Gender=Neut|Number=Plur	μέρος	orphan	15
+771	18	λόγου	NOUN	Nb	Case=Gen|Gender=Masc|Number=Sing	λόγος	nmod	17
+771	19	etc.	PUNCT	Z		etc.	orphan	15
+771	20	Etymol.	PUNCT	Z		Etymol.	punct	11
+771	21	Magn.	PUNCT	Z		Magn.	ROOT	21
+771	22	s.	PUNCT	Z		s.	ROOT	22
+771	23	v.	PUNCT	Z		v.	ROOT	23
+771	24	ἀμβωμοῖσιν	ADJ	A-	Case=Dat|Degree=Pos|Gender=Masc|Number=Plur	ἀμβωμός	ROOT	24
+771	25	·	PUNCT	Z		·	punct	24
+771	26	ἀντὶ	ADP	R-		ἀντί	case	30
+771	27	τοῦ	DET	S-	Case=Gen|Definite=Def|Gender=Masc|Number=Sing|PronType=Dem	ὁ	det	30
+771	28	περὶ	ADP	R-		περί	case	30
+771	29	τοῖς	DET	S-	Case=Dat|Definite=Def|Gender=Masc,Neut|Number=Plur|PronType=Dem	ὁ	det	30
+771	30	βωμοῖς	NOUN	Nb	Case=Dat|Gender=Masc|Number=Plur	βωμός	ROOT	30
+771	31	.	PUNCT	Z		.	punct	30
+771	32	Χρύσιππος	PROPN	Ne	Case=Nom|Gender=Masc|Number=Sing	Χρύσιππος	nsubj	35
+771	33	ὑφ’	ADP	R-		ὑφ’	advmod	35
+771	34	ἓν	NUM	Ma	Case=Acc|Gender=Neut|Number=Sing	εἷς	obl	35
+771	35	προφέρει	VERB	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	προφέρω	ROOT	35
+771	36	,	PUNCT	Z		,	punct	35
+771	37	ὁ	DET	S-	Case=Nom|Definite=Def|Gender=Masc|Number=Sing|PronType=Dem	ὁ	det	39
+771	38	μέντοι	ADV	Df		μέντοι	discourse	39
+771	39	Ἀρίσταρχος	PROPN	Ne	Case=Nom|Gender=Masc|Number=Sing	Ἀρίσταρχος	ROOT	39
+771	40	δύο	NUM	Ma		δύο	nummod	41
+771	41	μέρη	NOUN	Nb	Case=Acc|Gender=Neut|Number=Plur	μέρος	orphan	39
+771	42	λόγου	NOUN	Nb	Case=Gen|Gender=Masc|Number=Sing	λόγος	nmod	41
+771	43	.	PUNCT	Z		.	punct	39
+772	0	Scholia	ADV	C-		Scholia	ROOT	0
+772	1	ad	ADV	Df		ad	advmod	0
+772	2	Hom.	PUNCT	Z		Hom.	punct	0
+772	3	Iliad.	PUNCT	Z		Iliad.	punct	0
+772	4	Κ	ADV	Df		Κ	ROOT	4
+772	5	252.	PUNCT	Z		252.	punct	4
+772	6	Χρύσιππος	PROPN	Ne	Case=Nom|Gender=Masc|Number=Sing	Χρύσιππος	nsubj	21
+772	7	δὲ	ADV	Df		δέ	discourse	21
+772	8	ὥσπερ	ADV	Dq	PronType=Rel	ὥσπερ	advmod	21
+772	9	εἴ	SCONJ	G-		εἰ	mark	12
+772	10	τις	ADJ	Px	Case=Nom|Gender=Masc|Number=Sing	τίς	nsubj	12
+772	11	,	PUNCT	Z		,	xcomp	12
+772	12	φησί	VERB	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	φημί	nsubj	21
+772	13	,	PUNCT	Z		,	iobj	11
+772	14	περὶ	ADP	R-		περί	case	16
+772	15	τριῶν	NUM	Ma	Case=Gen|Number=Plur	τρεῖς	nummod	16
+772	16	ἡμερῶν	NOUN	Nb	Case=Gen|Gender=Fem|Number=Plur	ἡμέρα	obl	17
+772	17	διαλεγόμενος	VERB	V-	Case=Nom|Gender=Masc|Number=Sing|Tense=Pres|VerbForm=Part|Voice=Mid	διαλέγομαι	advcl	21
+772	18	ἐν	ADP	R-		ἐν	case	20
+772	19	τῇ	DET	S-	Case=Dat|Definite=Def|Gender=Fem|Number=Sing|PronType=Dem	ὁ	det	20
+772	20	τρίτῃ	ADJ	Mo	Case=Dat|Gender=Fem|Number=Sing	τρίτος	advmod	21
+772	21	λέγει	VERB	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	λέγω	ROOT	21
+772	22	μίαν	NUM	Ma	Case=Acc|Gender=Fem|Number=Sing	εἷς	nummod	23
+772	23	ἀπολείπεσθαι	VERB	V-	Tense=Pres|VerbForm=Inf|Voice=Pass	ἀπολείπω	ccomp	21
+772	24	ἔτι	ADV	Df		ἔτι	advmod	23
+772	25	ἡμέραν	NOUN	Nb	Case=Acc|Gender=Fem|Number=Sing	ἡμέρα	nsubj	23
+772	26	,	PUNCT	Z		,	dep	21
+772	27	κἂν	SCONJ	G-		ἐάν	mark	31
+772	28	μὴ	ADV	Df	Polarity=Neg	μή	advmod	31
+772	29	περὶ	ADP	R-		περί	case	30
+772	30	ὄρθρον	NOUN	Nb	Case=Acc|Gender=Masc|Number=Sing	ὄρθρος	obl	31
+772	31	ποιῆται	VERB	V-	Mood=Sub|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	ποιέω	advcl	26
+772	32	τοὺς	DET	S-	Case=Acc|Definite=Def|Gender=Masc|Number=Plur|PronType=Dem	ὁ	det	33
+772	33	λόγους	NOUN	Nb	Case=Acc|Gender=Masc|Number=Plur	λόγος	obj	31
+772	34	,	PUNCT	Z		,	punct	21
+772	35	οὕτως	ADV	Df		οὕτως	advmod	50
+772	36	καὶ	ADV	Df		καί	advmod	38
+772	37	τὸν	DET	S-	Case=Acc|Definite=Def|Gender=Masc|Number=Sing|PronType=Dem	ὁ	det	38
+772	38	Ὀδυσσέα	PROPN	Ne	Case=Acc|Gender=Masc|Number=Sing	Ὀδυσσεύς	nsubj	49
+772	39	εἰ	SCONJ	G-		εἰ	mark	41
+772	40	καὶ	ADV	Df		καί	advmod	41
+772	41	πλέον	ADJ	A-	Case=Nom|Degree=Cmp|Gender=Neut|Number=Sing	πολύς	advcl	43
+772	42	ἦν	AUX	V-	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	εἰμί	cop	41
+772	43	παρῳχηκὸς	VERB	V-	Aspect=Perf|Case=Nom|Gender=Neut|Number=Sing|Tense=Past|VerbForm=Part|Voice=Act	παρῳχηκός	advcl	49
+772	44	τῶν	DET	S-	Case=Gen|Definite=Def|Number=Plur|PronType=Dem	ὁ	det	46
+772	45	δύο	NUM	Ma		δύο	nummod	46
+772	46	μοιρῶν	NOUN	Nb	Case=Gen|Gender=Fem|Number=Plur	μοῖρα	nsubj	43
+772	47	τὴν	DET	S-	Case=Acc|Definite=Def|Gender=Fem|Number=Sing|PronType=Dem	ὁ	det	48
+772	48	τρίτην	ADJ	Mo	Case=Acc|Gender=Fem|Number=Sing	τρίτος	nsubj	50
+772	49	φάναι	VERB	V-	Tense=Pres|VerbForm=Inf|Voice=Act	φημί	ccomp	21
+772	50	καταλείπεσθαι	VERB	V-	Tense=Pres|VerbForm=Inf|Voice=Pass	καταλείπομαι	ccomp	49
+772	51	,	PUNCT	Z		,	punct	21
+772	52	ἐπειδὴ	SCONJ	G-		ἐπειδή	mark	61
+772	53	τριμεροῦς	ADJ	A-	Case=Gen|Degree=Pos|Gender=Fem|Number=Sing	τριμερής	advcl	61
+772	54	οὔσης	AUX	V-	Case=Gen|Gender=Fem|Number=Sing|Tense=Pres|VerbForm=Part|Voice=Act	εἰμί	cop	53
+772	55	τῆς	DET	S-	Case=Gen|Definite=Def|Gender=Fem|Number=Sing|PronType=Dem	ὁ	det	56
+772	56	νυκτὸς	NOUN	Nb	Case=Gen|Gender=Fem|Number=Sing	νύξ	nsubj	53
+772	57	ἕκαστον	ADJ	Px	Case=Nom|Degree=Pos|Gender=Neut|Number=Sing	ἕκαστος	det	58
+772	58	μέρος	NOUN	Nb	Case=Nom|Gender=Neut|Number=Sing	μέρος	nsubj:pass	61
+772	59	ἕν	NUM	Ma	Case=Nom|Gender=Neut|Number=Sing	εἷς	dep	61
+772	60	τι	DET	Px	Case=Nom|Gender=Neut|Number=Sing	τίς	det	59
+772	61	λαμβάνεται	VERB	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Pass	λαμβάνω	advcl	71
+772	62	,	PUNCT	Z		,	nsubj:pass	61
+772	63	ὥστε	ADV	G-		ὥστε	advmod	65
+772	64	κἂν	SCONJ	G-		ἐάν	mark	65
+772	65	ἐλλιπὲς	ADJ	A-	Case=Nom|Degree=Pos|Gender=Neut|Number=Sing	ἐλλιπής	advcl	61
+772	66	ᾖ	AUX	V-	Mood=Sub|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	εἰμί	cop	65
+772	67	τοῦτο	ADJ	Pd	Case=Nom|Gender=Neut|Number=Sing	οὗτος	nsubj	65
+772	68	καὶ	CCONJ	C-		καί	cc	65
+772	69	μὴ	ADV	Df	Polarity=Neg	μή	advmod	70
+772	70	ὁλόκληρον	ADJ	A-	Case=Nom|Degree=Pos|Gender=Neut|Number=Sing	ὁλόκληρος	conj	65
+772	71	,	PUNCT	Z		,	ROOT	71
+772	72	ἀλλ’	CCONJ	C-		ἀλλ’	cc	73
+772	73	ἀριθμεῖσθαί	VERB	V-	Tense=Pres|VerbForm=Inf|Voice=Pass	ἀριθμεῖσθαί	conj	71
+772	74	γε	ADV	Df		γε	discourse	73
+772	75	τρίτην	ADJ	Mo	Case=Acc|Gender=Fem|Number=Sing	τρίτος	xcomp	73
+772	76	,	PUNCT	Z		,	punct	71
+772	77	τῷ	DET	S-	Case=Dat|Definite=Def|Gender=Neut|Number=Sing|PronType=Dem	ὁ	det	81
+772	78	τάξιν	NOUN	Nb	Case=Acc|Gender=Fem|Number=Sing	τάξις	obj	81
+772	79	τῶν	DET	S-	Case=Gen|Definite=Def|Gender=Fem|Number=Plur|PronType=Dem	ὁ	det	80
+772	80	ἡμερῶν	NOUN	Nb	Case=Gen|Gender=Fem|Number=Plur	ἡμέρα	nmod	78
+772	81	ἔχειν	VERB	V-	Tense=Pres|VerbForm=Inf|Voice=Act	ἔχω	ROOT	81
+772	82	τὴν	DET	S-	Case=Acc|Definite=Def|Gender=Fem|Number=Sing|PronType=Dem	ὁ	det	83
+772	83	τρίτην	ADJ	Mo	Case=Acc|Gender=Fem|Number=Sing	τρίτος	obj	81
+772	84	.	PUNCT	Z		.	ROOT	84
+772	85	οὕτω	ADV	Df		οὕτως	advmod	93
+772	86	γὰρ	ADV	Df		γάρ	discourse	93
+772	87	καὶ	ADV	Df		καί	advmod	93
+772	88	ἄνθρωπον	NOUN	Nb	Case=Acc|Gender=Masc|Number=Sing	ἄνθρωπος	nsubj	93
+772	89	παρὰ	ADP	R-		παρά	case	90
+772	90	πόδα	NOUN	Nb	Case=Acc|Gender=Masc|Number=Sing	πούς	xcomp	91
+772	91	γενόμενον	VERB	V-	Aspect=Perf|Case=Acc|Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part|Voice=Mid	γίγνομαι	advcl	93
+772	92	ἔτι	ADV	Df		ἔτι	advmod	93
+772	93	τυγχάνειν	VERB	V-	Tense=Pres|VerbForm=Inf|Voice=Act	τυγχάνω	ROOT	93
+772	94	τῆς	DET	S-	Case=Gen|Definite=Def|Gender=Fem|Number=Sing|PronType=Dem	ὁ	det	96
+772	95	ὅλης	ADJ	A-	Case=Gen|Degree=Pos|Gender=Fem|Number=Sing	ὅλος	amod	96
+772	96	προσηγορίας	NOUN	Nb	Case=Gen|Gender=Fem|Number=Sing	προσηγορία	iobj	93
+772	97	.	PUNCT	Z		.	punct	93
+773	0	Scholia	ADV	Df		Scholia	ROOT	0
+773	1	in	ADV	Df		in	advmod	0
+773	2	Hom.	PUNCT	Z		Hom.	punct	0
+773	3	Iliad.	PUNCT	Z		Iliad.	punct	0
+773	4	Ν	VERB	Df	Tense=Pres|VerbForm=Inf|Voice=Act	Ν	ROOT	4
+773	5	.	PUNCT	Z		.	punct	4
+773	6	v.	PUNCT	Z		v.	ROOT	6
+773	7	41.	PUNCT	Z		41.	advmod	16
+773	8	Χρύσιππος	PROPN	Ne	Case=Nom|Gender=Masc|Number=Sing	Χρύσιππος	nsubj	16
+773	9	δὲ	ADV	Df		δέ	discourse	8
+773	10	ὁ	DET	S-	Case=Nom|Definite=Def|Gender=Masc|Number=Sing|PronType=Dem	ὁ	det	11
+773	11	Στωϊκὸς	ADJ	A-	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	στωϊκός	appos	8
+773	12	καὶ	CCONJ	C-		καί	cc	11
+773	13	Διονύσιος	PROPN	Ne	Case=Nom|Gender=Masc|Number=Sing	Διονύσιος	conj	11
+773	14	ὁ	DET	S-	Case=Nom|Definite=Def|Gender=Masc|Number=Sing|PronType=Dem	ὁ	det	15
+773	15	Θρᾴξ	NOUN	Nb	Case=Nom|Gender=Masc|Number=Sing	Θρᾴξ	appos	13
+773	16	δασύνουσι	VERB	V-	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	δασύνω	ROOT	16
+773	17	τὸ	DET	S-	Case=Acc|Definite=Def|Gender=Neut|Number=Sing|PronType=Dem	ὁ	det	18
+773	18	αὐΐαχοι	NOUN	Nb	Case=Nom|Gender=Masc|Number=Plur	αὐΐαχος	obj	16
+773	19	ἵν	ADV	Ne		ἵν	appos	8
+773	20	’	CCONJ	C-		’	nsubj	19
+773	21	ᾖ	AUX	C-	Mood=Sub|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	εἰμί	cop	22
+773	22	ξηρόφωνοι	ADJ	A-	Case=Nom|Degree=Pos|Gender=Masc|Number=Plur	ξηρόφωνοι	conj	19
+773	23	.	PUNCT	Z		.	punct	16
+774	0	Scholia	ADV	C-		Scholia	ROOT	0
+774	1	in	ADV	Df		in	advmod	0
+774	2	Hom.	PUNCT	Z		Hom.	punct	0
+774	3	Iliad.	PUNCT	Z		Iliad.	punct	0
+774	4	Ο	PRON	Pp	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	Ο	ROOT	4
+774	5	.	PUNCT	Z		.	punct	4
+774	6	v.	PUNCT	Z		v.	ROOT	6
+774	7	241.	PUNCT	Z		241.	ROOT	7
+774	8	ἀμφὶ	ADP	R-		ἀμφί	case	10
+774	9	ἓ	PRON	Pp	Case=Acc|Gender=Masc|Number=Sing|Person=3|PronType=Prs	ἕ	obj	10
+774	10	γιγνώσκων	VERB	V-	Case=Nom|Gender=Masc|Number=Sing|Tense=Pres|VerbForm=Part|Voice=Act	γιγνώσκω	advcl	12
+774	11	·	PUNCT	Z		·	punct	10
+774	12	－	CCONJ	C-		－	ROOT	12
+774	13	－	DET	S-	Case=Nom|Definite=Def|Gender=Masc|Number=Sing|PronType=Dem	－	discourse	12
+774	14	Χρύσιππος	PROPN	Ne	Case=Nom|Gender=Masc|Number=Sing	Χρύσιππος	nsubj	12
+774	15	δὲ	ADV	Df		δέ	discourse	12
+774	16	ψιλοῦν	VERB	V-	Tense=Pres|VerbForm=Inf|Voice=Act	ψιλόω	ccomp	12
+774	17	τὸ	DET	S-	Case=Acc|Definite=Def|Gender=Neut|Number=Sing|PronType=Dem	ὁ	det	18
+774	18	ε̄	NOUN	Nb		ε̄	obj	16
+774	19	ὡς	ADV	Df		ὡς	advmod	20
+774	20	περισσεῦον	VERB	V-	Case=Acc|Gender=Neut|Number=Sing|Tense=Pres|VerbForm=Part|Voice=Act	περισσεύω	advcl	16
+774	21	,	PUNCT	Z		,	punct	12
+774	22	καί	CCONJ	C-		καί	cc	12
+774	23	φησιν	VERB	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	φημί	conj	12
+774	24	ἀμφιγνοῶν	VERB	V-	Case=Nom|Gender=Masc|Number=Sing|Tense=Pres|VerbForm=Part|Voice=Act	ἀμφιγνοέω	xcomp	23
+774	25	ἀντὶ	ADP	R-		ἀντί	case	27
+774	26	τοῦ	DET	S-	Case=Gen|Definite=Def|Gender=Masc,Neut|Number=Sing|PronType=Dem	ὁ	det	27
+774	27	ἀντιβάλλων	VERB	V-	Case=Nom|Gender=Masc|Number=Sing|Tense=Pres|VerbForm=Part|Voice=Act	ἀντιβάλλω	advcl	12
+774	28	.	PUNCT	Z		.	punct	12
+775	0	Scholia	ADV	Df		Scholia	ROOT	0
+775	1	in	ADV	Df		in	advmod	0
+775	2	Hom.	PUNCT	Z		Hom.	punct	0
+775	3	Iliad.	PUNCT	Z		Iliad.	ROOT	3
+775	4	Χ	ADV	Df		Χ	advmod	5
+775	5	212.	PUNCT	Z		212.	ROOT	5
+775	6	μέσσα	ADJ	A-	Case=Acc|Degree=Pos|Gender=Neut|Number=Plur	μέσσα	xcomp	10
+775	7	·	PUNCT	Z		·	advmod	6
+775	8	Χρύσιππος	PROPN	Ne	Case=Nom|Gender=Masc|Number=Sing	Χρύσιππος	nsubj	10
+775	9	ῥῦμα	NOUN	Nb	Case=Acc|Gender=Neut|Number=Plur	ῥῦμα	xcomp	10
+775	10	γράφει	VERB	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	γράφω	parataxis	5
+775	11	·	PUNCT	Z		·	punct	10
+775	12	τὴν	DET	S-	Case=Acc|Definite=Def|Gender=Fem|Number=Sing|PronType=Dem	ὁ	det	14
+775	13	γὰρ	ADV	Df		γάρ	discourse	18
+775	14	ῥοπὴν	NOUN	Nb	Case=Acc|Gender=Fem|Number=Sing	ῥοπή	nsubj:pass	18
+775	15	τοῦ	DET	S-	Case=Gen|Definite=Def|Gender=Masc,Neut|Number=Sing|PronType=Dem	ὁ	det	16
+775	16	ζυγοῦ	NOUN	Nb	Case=Gen|Gender=Masc|Number=Sing	ζυγόν	nmod	14
+775	17	ῥύμην	NOUN	Nb	Case=Acc|Gender=Fem|Number=Sing	ῥύμη	xcomp	18
+775	18	καλεῖσθαι	VERB	V-	Tense=Pres|VerbForm=Inf|Voice=Pass	καλέω	ROOT	18
+775	19	.	PUNCT	Z		.	punct	18
+776	0	Scholia	ADV	Df		Scholia	ROOT	0
+776	1	in	ADV	Df		in	advmod	0
+776	2	Hom.	PUNCT	Z		Hom.	punct	0
+776	3	Odyss.	PUNCT	Z		Odyss.	punct	0
+776	4	Ε	PRON	Pp	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	Ε	ROOT	4
+776	5	.	PUNCT	Z		.	punct	4
+776	6	240.	PUNCT	Z		240.	ROOT	6
+776	7	περίκηλα	ADJ	A-	Case=Acc|Degree=Pos|Gender=Neut|Number=Plur	περίκηλος	ROOT	7
+776	8	·	PUNCT	Z		·	punct	7
+776	9	Ἀρίσταρχος	PROPN	Ne	Case=Nom|Gender=Masc|Number=Sing	Ἀρίσταρχος	nsubj	12
+776	10	ὥσπρ	ADV	Df		ὥσπρ	xcomp	12
+776	11	ξηρὰ	ADJ	A-	Case=Acc|Degree=Pos|Gender=Neut|Number=Plur	ξηρός	obj	12
+776	12	ἐκδεχόμενος	VERB	V-	Case=Nom|Gender=Masc|Number=Sing|Tense=Pres|VerbForm=Part|Voice=Mid	ἐκδέχομαι	ROOT	12
+776	13	,	PUNCT	Z		,	punct	12
+776	14	τὰ	DET	S-	Case=Acc|Definite=Def|Gender=Neut|Number=Plur|PronType=Dem	ὁ	det	15
+776	15	περικεκαυμένα	VERB	V-	Aspect=Perf|Case=Acc|Gender=Neut|Number=Plur|Tense=Past|VerbForm=Part|Voice=Pass	περικεκαυμένα	ROOT	15
+776	16	ὑπὸ	ADP	R-		ὑπό	case	17
+776	17	ἡλίου	NOUN	Nb	Case=Gen|Gender=Masc|Number=Sing	ἥλιος	obl:agent	15
+776	18	.	PUNCT	Z		.	ROOT	18
+776	19	Χρύσιππος	PROPN	Ne	Case=Nom|Gender=Masc|Number=Sing	Χρύσιππος	nsubj	21
+776	20	δὲ	ADV	Df		δέ	discourse	21
+776	21	διῄρει	VERB	V-	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	διαιρέω	ROOT	21
+776	22	,	PUNCT	Z		,	punct	21
+776	23	περὶ	ADP	R-		περί	case	24
+776	24	κῆλα	NOUN	Nb	Case=Acc|Gender=Neut|Number=Plur	κῆλον	obl	25
+776	25	,	PUNCT	Z		,	ROOT	25
+776	26	περισσῶς	ADV	Df	Degree=Pos	περισσῶς	advmod	27
+776	27	ξηρά	ADJ	A-	Case=Acc|Degree=Pos|Gender=Neut|Number=Plur	ξηρός	ROOT	27
+776	28	.	PUNCT	Z		.	punct	27
+777	0	Etymol.	PUNCT	Z		Etymol.	ROOT	0
+777	1	Magn.	PUNCT	Z		Magn.	ROOT	1
+777	2	s.	PUNCT	Z		s.	ROOT	2
+777	3	v.	PUNCT	Z		v.	ROOT	3
+777	4	ἐπικυνεῖν	VERB	V-	Tense=Pres|VerbForm=Inf|Voice=Act	ἐπικυνίσκω	ccomp	7
+777	5	(	PUNCT	Pp	Polarity=Neg	(	discourse	4
+777	6	p.	PUNCT	Z		p.	punct	4
+777	7	361	CCONJ	Nb		361	ROOT	7
+777	8	,	PUNCT	Z		,	punct	7
+777	9	13	ADV	Df		13	ROOT	9
+777	10	Gaisf.).	PUNCT	Z		Gaisf.).	punct	9
+777	11	καὶ	CCONJ	C-		καί	cc	13
+777	12	Χρύσιππος	PROPN	Ne	Case=Nom|Gender=Masc|Number=Sing	Χρύσιππος	nsubj	13
+777	13	γράψει	VERB	V-	Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin|Voice=Act	γράφω	ROOT	13
+777	14	Κυλλήνιος	ADJ	A-	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	Κυλλήνη	xcomp	13
+777	15	Ἑρμῆς	PROPN	Ne	Case=Nom|Gender=Masc|Number=Sing	Ἑρμῆς	nsubj	13
+777	16	,	PUNCT	Z		,	punct	13
+777	17	ἐπειδὴ	SCONJ	G-		ἐπειδή	mark	23
+777	18	ἡ	DET	S-	Case=Nom|Definite=Def|Gender=Fem|Number=Sing|PronType=Dem	ὁ	det	19
+777	19	ῥάβδος	NOUN	Nb	Case=Nom|Gender=Fem|Number=Sing	ῥάβδος	nsubj	23
+777	20	αὐτοῦ	PRON	Pp	Case=Gen|Gender=Masc|Number=Sing|Person=3|PronType=Prs	αὐτός	det	19
+777	21	ἀνδρῶν	NOUN	Nb	Case=Gen|Gender=Masc|Number=Plur	ἀνήρ	nmod	22
+777	22	ὄμματα	NOUN	Nb	Case=Acc|Gender=Neut|Number=Plur	ὄμμα	obj	23
+777	23	θέλγει	VERB	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	θέλγω	ROOT	23
+777	24	－	CCONJ	V-		－	dep	23
+777	25	－	CCONJ	C-		－	cc	23
+777	26	Φαίακες	NOUN	Nb	Case=Nom|Gender=Masc|Number=Plur	Φαίαξ	nsubj	28
+777	27	δὲ	ADV	Df		δέ	discourse	28
+777	28	θύουσιν	VERB	V-	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	θύω	conj	23
+777	29	αὐτῷ	PRON	Pp	Case=Dat|Gender=Masc|Number=Sing|Person=3|PronType=Prs	αὐτός	iobj	28
+777	30	ἑσπέρας	NOUN	Df	Case=Gen|Gender=Fem|Number=Sing	ἑσπέρα	advmod	28
+777	31	ὡς	ADV	Dq	PronType=Rel	ὡς	advcl	28
+777	32	Ὅμηρος	PROPN	Ne	Case=Nom|Gender=Masc|Number=Sing	Ὅμηρος	nsubj	31
+777	33	ὅτε	SCONJ	G-		ὅτε	mark	34
+777	34	μνησαίατο	VERB	V-	Mood=Opt|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Mid	μιμνήσκω	advcl	28
+777	35	κοίτου	NOUN	Nb	Case=Gen|Gender=Masc|Number=Sing	κοίτης	iobj	34
+777	36	οὐχ	ADV	Df	Polarity=Neg	οὐ	advmod	38
+777	37	ὅτι	SCONJ	G-		ὅτι	mark	38
+777	38	ὀνειρόπομπος	ADJ	A-	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	ὀνειρόπομπος	advcl	28
+777	39	ἦν	AUX	V-	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	εἰμί	cop	38
+777	40	ἀλλ’	CCONJ	C-		ἀλλ’	cc	38
+777	41	ὅτι	SCONJ	G-		ὅτι	mark	44
+777	42	ὕπνου	NOUN	Nb	Case=Gen|Gender=Masc|Number=Sing	ὕπνος	iobj	44
+777	43	ἡδέος	ADJ	A-	Case=Gen|Degree=Pos|Gender=Masc|Number=Sing	ἡδύς	amod	42
+777	44	αἴτιος	ADJ	A-	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	αἴτιος	conj	38
+777	45	.	PUNCT	Z		.	punct	23
+777	46	Cf.	PUNCT	Z		Cf.	ROOT	46
+777	47	Etymol.	PUNCT	Z		Etymol.	ROOT	47
+777	48	Gud.	PUNCT	Z		Gud.	ROOT	48
+777	49	s.	PUNCT	Z		s.	ROOT	49
+777	50	v.	PUNCT	Z		v.	ROOT	50
+777	51	ἐπικυνεῖν	VERB	V-	Tense=Pres|VerbForm=Inf|Voice=Act	ἐπικυνίσκω	ROOT	51
+777	52	et	CCONJ	C-		et	cc	51
+777	53	ἐπισκύνειν	VERB	V-	Tense=Pres|VerbForm=Inf|Voice=Act	ἐπισκύνω	conj	51
+777	54	.	PUNCT	Z		.	punct	51

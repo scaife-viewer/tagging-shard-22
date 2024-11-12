@@ -1,0 +1,93 @@
+1	0	ΕΚ	ADP	R-		εΚ	case	2
+1	1	ΤΩΝ	DET	S-	Case=Gen|Definite=Def|Gender=Masc|Number=Plur|PronType=Dem	ΤΩΝ	det	2
+1	2	ΑΝΝΟΥΒΙΩΝΟΣ	PROPN	Ne	Case=Gen|Gender=Masc|Number=Sing	ΑΝΝΟΥΒΙΩΝΟΣ	ROOT	2
+1	3	.	PUNCT	Z		.	punct	2
+1	4	Περὶ	ADP	R-		περί	case	5
+1	5	μοίρας	NOUN	Nb	Case=Gen|Gender=Fem|Number=Sing	μοῖρα	ROOT	5
+1	6	ὡροσκοπούσης	VERB	V-	Case=Gen|Gender=Fem|Number=Sing|Tense=Pres|VerbForm=Part|Voice=Act	ὡροσκοπέω	acl	5
+1	7	ὡς	ADV	Df		ὡς	advmod	6
+1	8	Ἀννουβίων	PROPN	Ne	Case=Gen|Gender=Masc|Number=Sing	Ἀννουβῖος	nsubj	7
+1	9	ἐν	ADP	R-		ἐν	case	11
+1	10	τοῖς	DET	S-	Case=Dat|Definite=Def|Gender=Neut|Number=Plur|PronType=Dem	ὁ	det	11
+1	11	ἐλεγείοις	NOUN	Nb	Case=Dat|Gender=Neut|Number=Plur	ἐλεγείω	obl	7
+1	12	.	PUNCT	Z		.	punct	5
+1	13	Ὡρονόμον	ADJ	A-	Case=Acc|Degree=Pos|Gender=Masc|Number=Sing	Ὡρονόμος	obj	15
+1	14	δὲ	ADV	Df		δέ	discourse	15
+1	15	μάθοις	VERB	V-	Aspect=Perf|Mood=Opt|Number=Sing|Person=2|Tense=Past|VerbForm=Fin|Voice=Act	μανθάνω	ROOT	15
+1	16	ὥρην	NOUN	Nb	Case=Acc|Gender=Fem|Number=Sing	ὥρα	dep	15
+1	17	ἄτερ	ADP	R-		ἄτερ	case	16
+1	18	ἀστράσιν	NOUN	Nb	Case=Dat|Gender=Masc|Number=Plur	ἀστρά	obl	20
+1	19	ἄλλοις	DET	A-	Case=Dat|Gender=Masc|Number=Plur	ἄλλος	amod	18
+1	20	σκεπτόμενος	VERB	V-	Case=Nom|Gender=Masc|Number=Sing|Tense=Pres|VerbForm=Part|Voice=Mid	σκοπέω	advcl	15
+1	21	Μήνην	NOUN	Nb	Case=Acc|Gender=Fem|Number=Sing	Μήνη	obj	50
+1	22	καὶ	CCONJ	C-		καί	cc	21
+1	23	μέγαν	ADJ	A-	Case=Acc|Degree=Pos|Gender=Masc|Number=Sing	μέγας	amod	24
+1	24	Ἠέλιον·	NOUN	Nb	Case=Acc|Gender=Masc|Number=Sing	Ἠέλιον·	conj	21
+1	25	ἡμερινῇ	ADJ	A-	Case=Dat|Degree=Pos|Gender=Fem|Number=Sing	ἡμερινάω	amod	26
+1	26	γενέσει	NOUN	Nb	Case=Dat|Gender=Fem|Number=Sing	γένεσις	obl	30
+1	27	μὲν	ADV	Df		μέν	discourse	26
+1	28	ἀπʼ	ADP	R-		ἀπό	case	29
+1	29	Ἠελίοιο	PROPN	Ne	Case=Gen|Gender=Masc|Number=Sing	ἥλιος	dep	26
+1	30	,	PUNCT	Z		,	advmod	50
+1	31	νοήσας	VERB	V-	Aspect=Perf|Case=Nom|Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part|Voice=Act	νοέω	advcl	50
+1	32	οἴκου	NOUN	Nb	Case=Gen|Gender=Masc|Number=Sing	οἶκος	iobj	33
+1	33	δεσπόζων	VERB	V-	Case=Nom|Gender=Masc|Number=Sing|Tense=Pres|VerbForm=Part|Voice=Act	δεσπόζω	xcomp	31
+1	34	ἔνθα	ADV	Dq	PronType=Rel	ἔνθα	advmod	35
+1	35	βέβηκε	VERB	V-	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	βαίνω	dep	33
+1	36	θεός·	NOUN	Nb	Case=Nom|Gender=Masc|Number=Sing	θεός·	obj	31
+1	37	κεῖθεν	ADV	Df		ἐκεῖθεν	advmod	40
+1	38	δὲ	ADV	Df		δέ	discourse	40
+1	39	στοιχηδὸν	ADV	Df		στοιχηδόν	dep	40
+1	40	ἀριθμηθήμεναι	VERB	V-	Aspect=Perf|Tense=Past|VerbForm=Inf|Voice=Pass	ἀριθμέω	advcl	50
+1	41	ἄστρα	NOUN	Nb	Case=Acc|Gender=Neut|Number=Plur	ἄστρον	nsubj:pass	40
+1	42	μέχρι	ADP	R-		μέχρι	case	44
+1	43	Σεληναίης	ADJ	A-	Case=Gen|Degree=Pos|Gender=Fem|Number=Sing	Σεληναία	amod	44
+1	44	ἀστέρος	NOUN	Nb	Case=Gen|Gender=Masc|Number=Sing	ἀστήρ	obl	40
+1	45	ἱσταμένου·	VERB	Z	Case=Gen|Gender=Masc|Number=Sing|Tense=Pres|VerbForm=Part|Voice=Mid	ἱσταμένου·	advcl	40
+1	46	πάντα	DET	Px	Case=Acc|Gender=Neut|Number=Plur	πᾶς	det	21
+1	47	δʼ	ADV	Df		δέ	discourse	50
+1	48	ἀπʼ	ADP	R-		ἀπό	case	49
+1	49	Ἠελίοιο	NOUN	Nb	Case=Gen|Gender=Masc|Number=Sing	ἥλιος	obl	50
+1	50	διέκβαλε	VERB	V-	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	διέκβαλε	advcl	15
+1	51	τοῦτον	DET	Pd	Case=Acc|Gender=Masc|Number=Sing	οὗτος	det	52
+1	52	ἀριθμόν	NOUN	Nb	Case=Acc|Gender=Masc|Number=Sing	ἀριθμός	obj	50
+1	53	,	PUNCT	Z		,	dep	15
+1	54	εἰς	ADP	R-		εἰς	case	55
+1	55	ὅ	PRON	Pr	Case=Acc|Gender=Neut|Number=Sing|PronType=Rel	ὅς	obl	59
+1	56	τι	DET	Px	Case=Acc|Gender=Neut|Number=Sing	τίς	det	55
+1	57	δʼ	ADV	Df		δέ	discourse	59
+1	58	ἂν	ADV	Df		ἄν	advmod	59
+1	59	λήξῃ	VERB	V-	Aspect=Perf|Mood=Sub|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	λήγω	acl	60
+1	60	,	PUNCT	Z		,	ROOT	60
+1	61	κεῖθι	ADV	Df		ἐκεῖθι	ROOT	61
+1	62	καὶ	ADV	Df		καί	advmod	63
+1	63	ὡρονόμος	NOUN	Nb	Case=Nom|Gender=Masc|Number=Sing	ὡρονόμος	nsubj	61
+1	64	.	PUNCT	Z		.	punct	61
+1	65	χρὴ	VERB	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	χρή	ROOT	65
+1	66	δὲ	ADV	Df		δέ	discourse	65
+1	67	Σεληναίης	ADJ	A-	Case=Gen|Degree=Pos|Gender=Fem|Number=Sing	Σεληναία	nmod	68
+1	68	προτέρης	ADJ	A-	Case=Gen|Degree=Pos|Gender=Fem|Number=Sing	προτέρης	iobj	69
+1	69	ἀνελέσθαι	VERB	V-	Aspect=Perf|Tense=Past|VerbForm=Inf|Voice=Mid	ἀναιρέω	ccomp	65
+1	70	ἀριθμόν	NOUN	Nb	Case=Acc|Gender=Masc|Number=Sing	ἀριθμός	obj	69
+1	71	,	PUNCT	Z		,	punct	65
+1	72	ὥρην	NOUN	Nb	Case=Acc|Gender=Fem|Number=Sing	ὥρα	obj	74
+1	73	νυκτερινὴν	ADJ	A-	Case=Acc|Degree=Pos|Gender=Fem|Number=Sing	νυκτερινός	amod	72
+1	74	σκεπτόμενον	VERB	V-	Case=Acc|Gender=Masc|Number=Sing|Tense=Pres|VerbForm=Part|Voice=Mid	σκεπτόμενος	ROOT	74
+1	75	θέματος·	NOUN	Nb	Case=Gen|Gender=Neut|Number=Sing	θέματος·	iobj	74
+1	76	εἰ	SCONJ	G-		εἰ	mark	82
+1	77	δέ	ADV	Df		δέ	discourse	85
+1	78	κεν	ADV	Df		ἄν	advmod	82
+1	79	Ἠέλιος	NOUN	Nb	Case=Nom|Gender=Masc|Number=Sing	ἥλιος	nsubj	82
+1	80	ὀλίγας	ADJ	A-	Case=Acc|Degree=Pos|Gender=Fem|Number=Plur	ὀλίγος	amod	81
+1	81	μοίρας	NOUN	Nb	Case=Acc|Gender=Fem|Number=Plur	μοῖρα	obj	82
+1	82	ἔχῃ	VERB	V-	Mood=Sub|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	ἔχω	advcl	84
+1	83	ἄστρων	NOUN	Nb	Case=Gen|Gender=Neut|Number=Plur	ἄστρον	nmod	81
+1	84	,	PUNCT	Z		,	iobj	88
+1	85	χρὴ	VERB	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	χρή	ROOT	85
+1	86	τετράγωνά	ADJ	A-	Case=Acc|Degree=Pos|Gender=Neut|Number=Plur	τετράγων	obj	88
+1	87	θʼ	CCONJ	C-		τε	cc	86
+1	88	ὁρᾶν	VERB	V-	Tense=Pres|VerbForm=Inf|Voice=Act	ὁράω	ccomp	85
+1	89	καὶ	CCONJ	C-		καί	cc	86
+1	90	διάμετρα	ADJ	A-	Case=Acc|Degree=Pos|Gender=Neut|Number=Plur	διάμετρον	conj	86
+1	91	τόπων	NOUN	Nb	Case=Gen|Gender=Masc|Number=Plur	τόπος	nmod	90
+1	92	.	PUNCT	Z		.	punct	85

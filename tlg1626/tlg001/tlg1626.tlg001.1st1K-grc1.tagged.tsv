@@ -1,0 +1,367 @@
+1	0	Ἡμεῖς	PRON	Pp	Case=Nom|Gender=Masc|Number=Plur|Person=1|PronType=Prs	ἡμεῖς	nsubj	3
+1	1	οὖν	ADV	Df		οὖν	discourse	3
+1	2	ἀραδιούργητον	ADJ	A-	Case=Acc|Degree=Pos|Number=Sing	ἀραδιούργητος	xcomp	3
+1	3	ἄγομεν	VERB	V-	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	ἄγω	ROOT	3
+1	4	τὴν	DET	S-	Case=Acc|Definite=Def|Gender=Fem|Number=Sing|PronType=Dem	ὁ	det	5
+1	5	ἡμέραν	NOUN	Nb	Case=Acc|Gender=Fem|Number=Sing	ἡμέρα	obj	3
+1	6	·	PUNCT	Z		·	punct	3
+1	7	μήτε	CCONJ	C-		μήτε	cc	8
+1	8	προστιθέντες	VERB	V-	Case=Nom|Gender=Masc|Number=Plur|Tense=Pres|VerbForm=Part|Voice=Act	προστίθημι	ROOT	8
+1	9	,	PUNCT	Z		,	cc	8
+1	10	μήτε	CCONJ	C-		μήτε	cc	8
+1	11	ἀφαιρούμενοι	VERB	V-	Case=Nom|Gender=Masc|Number=Plur|Tense=Pres|VerbForm=Part|Voice=Mid	ἀφαιρέω	conj	8
+1	12	.	PUNCT	Z		.	punct	8
+1	13	καὶ	ADV	Df		καί	cc	21
+1	14	γὰρ	ADV	Df		γάρ	discourse	21
+1	15	καὶ	ADV	Df		καί	advmod	18
+1	16	κατὰ	ADP	R-		κατά	case	18
+1	17	τὴν	DET	S-	Case=Acc|Definite=Def|Gender=Fem|Number=Sing|PronType=Dem	ὁ	det	18
+1	18	Ἀσίαν	PROPN	Ne	Case=Acc|Gender=Fem|Number=Sing	Ἀσία	obl	21
+1	19	μεγάλα	ADJ	A-	Case=Nom|Degree=Pos|Gender=Neut|Number=Plur	μέγας	amod	20
+1	20	στοιχεῖα	NOUN	Nb	Case=Nom|Gender=Neut|Number=Plur	στοιχεῖον	nsubj:pass	21
+1	21	κεκοίμηται	VERB	V-	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Pass	κοιμάομαι	ROOT	21
+1	22	·	PUNCT	Z		·	punct	21
+1	23	ἅ	PRON	Pr	Case=Nom|Gender=Neut|Number=Plur|PronType=Rel	ὅς	nsubj	25
+1	24	τινα	DET	Px	Case=Nom|Gender=Neut|Number=Plur	τίς	det	23
+1	25	ἀναστήσεται	VERB	V-	Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin|Voice=Mid	ἀνίστημι	ROOT	25
+1	26	τῇ	DET	S-	Case=Dat|Definite=Def|Gender=Fem|Number=Sing|PronType=Dem	ὁ	det	27
+1	27	ἡμέρᾳ	NOUN	Nb	Case=Dat|Gender=Fem|Number=Sing	ἡμέρα	obl	25
+1	28	τῆς	DET	S-	Case=Gen|Definite=Def|Gender=Fem|Number=Sing|PronType=Dem	ὁ	det	29
+1	29	παρουσίας	NOUN	Nb	Case=Gen|Gender=Fem|Number=Sing	παρουσία	nmod	27
+1	30	τοῦ	DET	S-	Case=Gen|Definite=Def|Gender=Masc,Neut|Number=Sing|PronType=Dem	ὁ	det	31
+1	31	Κυρίου	NOUN	Nb	Case=Gen|Gender=Masc|Number=Sing	Κύριος	nmod	29
+1	32	,	PUNCT	Z		,	advmod	25
+1	33	ἐν	ADP	R-		ἐν	case	34
+1	34	ᾗ	PRON	Pr	Case=Dat|Gender=Fem|Number=Sing|PronType=Rel	ὅς	obl	35
+1	35	ἔρχεται	VERB	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Mid	ἔρχομαι	acl	32
+1	36	μετὰ	ADP	R-		μετά	case	37
+1	37	δόξης	NOUN	Nb	Case=Gen|Gender=Fem|Number=Sing	δόξα	obl	35
+1	38	ἐξ	ADP	R-		ἐκ	case	39
+1	39	οὐρανῶν	NOUN	Nb	Case=Gen|Gender=Masc|Number=Plur	οὐρανός	obl	35
+1	40	,	PUNCT	Z		,	parataxis	25
+1	41	καὶ	CCONJ	C-		καί	cc	40
+1	42	ἀναστήσει	VERB	V-	Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin|Voice=Act	ἀνίστημι	conj	40
+1	43	πάντας	DET	Px	Case=Acc|Gender=Masc|Number=Plur	πᾶς	det	45
+1	44	τοὺς	DET	S-	Case=Acc|Definite=Def|Gender=Masc|Number=Plur|PronType=Dem	ὁ	det	45
+1	45	ἁγίους	ADJ	A-	Case=Acc|Degree=Pos|Gender=Masc|Number=Plur	ἅγιος	obj	42
+1	46	·	PUNCT	Z		·	punct	25
+1	47	Φίλιππον	PROPN	Ne	Case=Acc|Gender=Masc|Number=Sing	Φίλιππος	ROOT	47
+1	48	τὸν	DET	S-	Case=Acc|Definite=Def|Gender=Masc|Number=Sing|PronType=Dem	ὁ	det	51
+1	49	τῶν	DET	S-	Case=Gen|Definite=Def|Number=Plur|PronType=Dem	ὁ	det	51
+1	50	δώδεκα	NUM	Ma		δώδεκα	nummod	51
+1	51	ἀποστόλων	NOUN	Nb	Case=Gen|Gender=Masc|Number=Plur	ἀπόστολος	nmod	47
+1	52	,	PUNCT	Z		,	appos	47
+1	53	ὃς	PRON	Pr	Case=Nom|Gender=Masc|Number=Sing|PronType=Rel	ὅς	nsubj:pass	54
+1	54	κεκοίμηται	VERB	V-	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Pass	κοιμάομαι	acl	47
+1	55	ἐν	ADP	R-		ἐν	case	56
+1	56	Ἱεραπόλει	PROPN	Ne	Case=Dat|Gender=Fem|Number=Sing	Ἱεράπολις	obl	54
+1	57	,	PUNCT	Z		,	appos	47
+1	58	καὶ	CCONJ	C-		καί	cc	47
+1	59	δύο	NUM	Ma		δύο	nummod	60
+1	60	θυ	NOUN	Nb	Case=Nom|Gender=Fem|Number=Plur	θυ	nsubj	61
+1	61	γατέρες	NOUN	Nb	Case=Nom|Gender=Fem|Number=Plur	γατέρες	conj	47
+1	62	αὐτοῦ	PRON	Pp	Case=Gen|Gender=Masc|Number=Sing|Person=3|PronType=Prs	αὐτός	det	61
+1	63	γεγηρακυῖαι	VERB	V-	Aspect=Perf|Case=Nom|Gender=Fem|Number=Plur|Tense=Past|VerbForm=Part|Voice=Act	γεγηρακυῖος	acl	61
+1	64	παρθένοι	NOUN	Nb	Case=Nom|Gender=Fem|Number=Plur	παρθένος	appos	47
+1	65	·	PUNCT	Z		·	punct	47
+1	66	καὶ	CCONJ	C-		καί	ROOT	66
+1	67	ἡ	DET	S-	Case=Nom|Definite=Def|Gender=Fem|Number=Sing|PronType=Dem	ὁ	det	69
+1	68	ἑτέρα	ADJ	A-	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing	ἕτερος	amod	69
+1	69	αὐ	ADV	Df		αὐ	nmod	66
+1	70	τοῦ	DET	S-	Case=Gen|Definite=Def|Gender=Masc|Number=Sing|PronType=Dem	ὁ	det	71
+1	71	θυγάτηρ	NOUN	Nb	Case=Nom|Gender=Fem|Number=Sing	θυγάτηρ	nsubj	66
+1	72	ἐν	ADP	R-		ἐν	case	74
+1	73	ἁγίῳ	ADJ	A-	Case=Dat|Degree=Pos|Gender=Masc,Neut|Number=Sing	ἅγιος	amod	74
+1	74	πνεύ	NOUN	Nb	Case=Dat|Gender=Neut|Number=Sing	πνεύ	obl	76
+1	75	ματι	NOUN	Nb	Case=Dat|Gender=Neut|Number=Sing	μα	obl	76
+1	76	πολιτευσαμένη	VERB	V-	Aspect=Perf|Case=Nom|Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part|Voice=Mid	πολιτεύω	acl	71
+1	77	,	PUNCT	Z		,	advmod	81
+1	78	ὴ	PRON	Pr	Case=Nom|Gender=Fem|Number=Sing|PronType=Rel	ὴ	nsubj	81
+1	79	ἐν	ADP	R-		ἐν	case	80
+1	80	Ἐφέσῳ	PROPN	Ne	Case=Dat|Gender=Fem|Number=Sing	Ἔφεσος	obl	81
+1	81	ἀναπαύεται	VERB	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Mid	ἀναπαύεμι	ROOT	81
+1	82	·	PUNCT	Z		·	punct	81
+1	83	ἔτι	ADV	Df		ἔτι	advmod	86
+1	84	δὲ	ADV	Df		δέ	discourse	86
+1	85	καὶ	ADV	Df		καί	advmod	86
+1	86	Ἰωάννης	PROPN	Ne	Case=Nom|Gender=Masc|Number=Sing	Ἰωάννης	ROOT	86
+1	87	ὁ	DET	S-	Case=Nom|Definite=Def|Gender=Masc|Number=Sing|PronType=Dem	ὁ	det	93
+1	88	ἐπὶ	ADP	R-		ἐπί	case	90
+1	89	τὸ	DET	S-	Case=Acc|Definite=Def|Gender=Neut|Number=Sing|PronType=Dem	ὁ	det	90
+1	90	στῆθος	NOUN	Nb	Case=Acc|Gender=Neut|Number=Sing	στῆθος	obl	93
+1	91	τοῦ	DET	S-	Case=Gen|Definite=Def|Gender=Masc,Neut|Number=Sing|PronType=Dem	ὁ	det	92
+1	92	Κυρίου	NOUN	Nb	Case=Gen|Gender=Masc|Number=Sing	Κύριος	nmod	90
+1	93	ἀναπεσών	VERB	V-	Aspect=Perf|Case=Nom|Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part|Voice=Act	ἀναπίπτω	appos	86
+1	94	·	PUNCT	Z		·	punct	86
+1	95	ὃς	PRON	Pr	Case=Nom|Gender=Masc|Number=Sing|PronType=Rel	ὅς	nsubj	96
+1	96	ἐγενήθη	VERB	V-	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Pass	γίγνομαι	ROOT	96
+1	97	ἱερεὺς	NOUN	Nb	Case=Nom|Gender=Masc|Number=Sing	ἱερεύς	xcomp	96
+1	98	τὸ	DET	S-	Case=Acc|Definite=Def|Gender=Neut|Number=Sing|PronType=Dem	ὁ	det	99
+1	99	πέταλον	NOUN	Nb	Case=Acc|Gender=Neut|Number=Sing	πέταλον	obj	100
+1	100	πεφορεκὼς	VERB	V-	Aspect=Perf|Case=Nom|Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part|Voice=Act	πεφορεκὼς	acl	97
+1	101	,	PUNCT	Z		,	parataxis	96
+1	102	καὶ	CCONJ	C-		καί	ROOT	102
+1	103	μάρτυς	NOUN	Nb	Case=Nom|Gender=Masc|Number=Sing	μάρτυς	ROOT	103
+1	104	καὶ	CCONJ	C-		καί	cc	103
+1	105	διδάσκαλος	NOUN	Nb	Case=Nom|Gender=Masc|Number=Sing	διδάσκαλος	conj	103
+1	106	·	PUNCT	Z		·	ROOT	106
+1	107	οὗτος	ADJ	Pd	Case=Nom|Gender=Masc|Number=Sing	οὗτος	nsubj:pass	110
+1	108	ἐν	ADP	R-		ἐν	case	109
+1	109	Ἐφέσῳ	PROPN	Ne	Case=Dat|Gender=Fem|Number=Sing	Ἔφεσος	obl	110
+1	110	κεκοίμηται	VERB	V-	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Pass	κοιμάομαι	ROOT	110
+1	111	.	PUNCT	Z		.	punct	110
+1	112	ἔτι	ADV	Df		ἔτι	advmod	115
+1	113	δὲ	ADV	Df		δέ	discourse	115
+1	114	καὶ	ADV	Df		καί	advmod	115
+1	115	Πολύκαρπος	PROPN	Ne	Case=Nom|Gender=Masc|Number=Sing	Πολύκαρπος	ROOT	115
+1	116	ἐν	ADP	R-		ἐν	case	117
+1	117	Σμύρνῃ	PROPN	Ne	Case=Dat|Gender=Fem|Number=Sing	Σμύρνα	orphan	115
+1	118	καὶ	CCONJ	C-		καί	cc	115
+1	119	ἐπίσκοπος	NOUN	Nb	Case=Nom|Gender=Masc|Number=Sing	ἐπίσκοπος	conj	115
+1	120	καὶ	CCONJ	C-		καί	cc	119
+1	121	μάρ	PROPN	Ne	Case=Nom|Gender=Masc|Number=Sing	μάρς	conj	119
+1	122	τυς	PROPN	Ne	Case=Nom|Gender=Masc|Number=Sing	τυς	appos	115
+1	123	·	PUNCT	Z		·	punct	115
+1	124	καὶ	CCONJ	C-		καί	cc	132
+1	125	Θρασέας	PROPN	Ne	Case=Nom|Gender=Masc|Number=Sing	Θρασεύς	nsubj	124
+1	126	καὶ	CCONJ	C-		καί	cc	125
+1	127	ἐπίσκοπος	NOUN	Nb	Case=Nom|Gender=Masc|Number=Sing	ἐπίσκοπος	conj	125
+1	128	καὶ	CCONJ	C-		καί	cc	125
+1	129	μάρτυς	NOUN	Nb	Case=Nom|Gender=Masc|Number=Sing	μάρτυς	conj	125
+1	130	ἀπὸ	ADP	R-		ἀπό	case	131
+1	131	Εὐμενείας	NOUN	Nb	Case=Gen|Gender=Fem|Number=Sing	Εὐμενεία	obl	125
+1	132	,	PUNCT	Z		,	ROOT	132
+1	133	ὃς	PRON	Pr	Case=Nom|Gender=Masc|Number=Sing|PronType=Rel	ὅς	nsubj:pass	136
+1	134	ἐν	ADP	R-		ἐν	case	135
+1	135	Σμύρνῃ	PROPN	Ne	Case=Dat|Gender=Fem|Number=Sing	Σμύρνα	obl	136
+1	136	κεκοίμηται	VERB	V-	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Pass	κοιμάομαι	acl	125
+1	137	.	PUNCT	Z		.	punct	132
+1	138	τί	PRON	Pi	Case=Acc|Gender=Neut|Number=Sing|PronType=Int	τίς	obj	141
+1	139	δὲ	ADV	Df		δέ	discourse	140
+1	140	δεῖ	VERB	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	δεῖ	ROOT	140
+1	141	λέγειν	VERB	V-	Tense=Pres|VerbForm=Inf|Voice=Act	λέγω	ccomp	140
+1	142	Σάγαριν	PROPN	Ne	Case=Acc|Gender=Masc|Number=Sing	Σάγαρις	obj	141
+1	143	ἐπίσκοπον	NOUN	Nb	Case=Acc|Gender=Masc|Number=Sing	ἐπίσκοπος	appos	142
+1	144	καὶ	CCONJ	C-		καί	cc	143
+1	145	μάρτυρα	NOUN	Nb	Case=Acc|Gender=Masc|Number=Sing	μάρτυς	conj	143
+1	146	,	PUNCT	Z		,	ccomp	140
+1	147	ὃς	PRON	Pr	Case=Nom|Gender=Masc|Number=Sing|PronType=Rel	ὅς	nsubj:pass	150
+1	148	ἐν	ADP	R-		ἐν	case	149
+1	149	Λαοδικείᾳ	PROPN	Ne	Case=Dat|Gender=Fem|Number=Sing	Λαοδικεία	obl	150
+1	150	κεκοίμηται	VERB	V-	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Pass	κοιμάομαι	acl	146
+1	151	;	PUNCT	Z		;	punct	140
+1	152	ἔτι	ADV	Df		ἔτι	ROOT	152
+1	153	δὲ	ADV	Df		δέ	discourse	155
+1	154	καὶ	ADV	Df		καί	advmod	155
+1	155	Παπείριον	PROPN	Ne	Case=Acc|Gender=Masc|Number=Sing	Παπείριος	obj	152
+1	156	τὸν	DET	S-	Case=Acc|Definite=Def|Gender=Masc|Number=Sing|PronType=Dem	ὁ	det	157
+1	157	μακάριον	ADJ	A-	Case=Acc|Degree=Pos|Gender=Masc|Number=Sing	μακάριος	appos	155
+1	158	,	PUNCT	Z		,	appos	155
+1	159	καὶ	CCONJ	C-		καί	cc	158
+1	160	Μελίτωνα	PROPN	Ne	Case=Acc|Gender=Masc|Number=Sing	Μελίτων	conj	158
+1	161	τὸν	DET	S-	Case=Acc|Definite=Def|Gender=Masc|Number=Sing|PronType=Dem	ὁ	det	162
+1	162	εὐνοῦχον	NOUN	Nb	Case=Acc|Gender=Masc|Number=Sing	εὐνοῦχος	appos	160
+1	163	,	PUNCT	Z		,	punct	152
+1	164	τὸν	DET	S-	Case=Acc|Definite=Def|Gender=Masc|Number=Sing|PronType=Dem	ὁ	det	169
+1	165	ἐν	ADP	R-		ἐν	case	167
+1	166	ἁγίῳ	ADJ	A-	Case=Dat|Degree=Pos|Gender=Masc,Neut|Number=Sing	ἅγιος	amod	167
+1	167	πνεύματι	NOUN	Nb	Case=Dat|Gender=Neut|Number=Sing	πνεῦμα	obl	169
+1	168	πάντα	ADJ	Px	Case=Acc|Gender=Neut|Number=Plur	πᾶς	obj	169
+1	169	πολιτευσάμενον	VERB	V-	Aspect=Perf|Case=Acc|Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part|Voice=Mid	πολιτευσάμενον	ROOT	169
+1	170	·	PUNCT	Z		·	ROOT	170
+1	171	ὃς	PRON	Pr	Case=Nom|Gender=Masc|Number=Sing|PronType=Rel	ὅς	nsubj	172
+1	172	κεῖται	VERB	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Mid	κεῖμαι	nsubj	330
+1	173	ἐν	ADP	R-		ἐν	case	174
+1	174	Σάρδεσι	PROPN	Ne	Case=Dat|Gender=Fem|Number=Plur	Σάρδεις	obl	172
+1	175	περιμένων	VERB	V-	Case=Nom|Gender=Masc|Number=Sing|Tense=Pres|VerbForm=Part|Voice=Act	περιμένω	advcl	172
+1	176	τὴν	DET	S-	Case=Acc|Definite=Def|Gender=Fem|Number=Sing|PronType=Dem	ὁ	det	180
+1	177	ἀπὸ	ADP	R-		ἀπό	case	179
+1	178	τῶν	DET	S-	Case=Gen|Definite=Def|Gender=Masc|Number=Plur|PronType=Dem	ὁ	det	179
+1	179	οὐρανῶν	NOUN	Nb	Case=Gen|Gender=Masc|Number=Plur	οὐρανός	nmod	180
+1	180	ἐπισκοπὴν	NOUN	Nb	Case=Acc|Gender=Fem|Number=Sing	ἐπισκοπή	obj	175
+1	181	,	PUNCT	Z		,	advcl	172
+1	182	ἐν	ADP	R-		ἐν	case	183
+1	183	ᾗ	PRON	Pr	Case=Dat|Gender=Fem|Number=Sing|PronType=Rel	ὅς	obl	186
+1	184	ἐκ	ADP	R-		ἐκ	case	185
+1	185	νεκρῶν	ADJ	A-	Case=Gen|Degree=Pos|Gender=Masc|Number=Plur	νεκρός	obl	186
+1	186	ἀναστήσεται	VERB	V-	Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin|Voice=Mid	ἀνίστημι	acl	181
+1	187	.	PUNCT	Z		.	punct	172
+1	188	οὗτοι	ADJ	Pd	Case=Nom|Gender=Masc|Number=Plur	οὗτος	nsubj	190
+1	189	πάντες	DET	Px	Case=Nom|Gender=Masc|Number=Plur	πᾶς	det	188
+1	190	ἐτήρησαν	VERB	V-	Aspect=Perf|Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	ἐτήρησαν	advcl	172
+1	191	τὴν	DET	S-	Case=Acc|Definite=Def|Gender=Fem|Number=Sing|PronType=Dem	ὁ	det	192
+1	192	ἡμέραν	NOUN	Nb	Case=Acc|Gender=Fem|Number=Sing	ἡμέρα	obl	190
+1	193	τῆς	DET	S-	Case=Gen|Definite=Def|Gender=Fem|Number=Sing|PronType=Dem	ὁ	det	194
+1	194	τεσσαρεσκαιδεκάτης	ADJ	Mo	Case=Gen|Gender=Fem|Number=Sing	τεσσαρεσκαιδεκάτης	nmod	192
+1	195	τοῦ	DET	S-	Case=Gen|Definite=Def|Gender=Neut|Number=Sing|PronType=Dem	ὁ	det	196
+1	196	πάσχα	NOUN	Nb		πάσχα	nmod	194
+1	197	κατὰ	ADP	R-		κατά	case	199
+1	198	τὸ	DET	S-	Case=Acc|Definite=Def|Gender=Neut|Number=Sing|PronType=Dem	ὁ	det	199
+1	199	εὐαγγέλιον	NOUN	Nb	Case=Acc|Gender=Neut|Number=Sing	εὐαγγέλιον	obl	190
+1	200	·	PUNCT	Z		·	punct	190
+1	201	μηδὲν	ADJ	Px	Case=Acc|Gender=Neut|Number=Sing	μηδείς	obj	202
+1	202	παρεκβαίνοντες	VERB	V-	Case=Nom|Gender=Masc|Number=Plur|Tense=Pres|VerbForm=Part|Voice=Act	παρεκβαίνω	advcl	172
+1	203	,	PUNCT	Z		,	advcl	172
+1	204	ἀλλὰ	CCONJ	C-		ἀλλά	cc	203
+1	205	κατὰ	ADP	R-		κατά	case	207
+1	206	τὸν	DET	S-	Case=Acc|Definite=Def|Gender=Masc|Number=Sing|PronType=Dem	ὁ	det	207
+1	207	κανόνα	NOUN	Nb	Case=Acc|Gender=Masc|Number=Sing	κανών	obl	210
+1	208	τῆς	DET	S-	Case=Gen|Definite=Def|Gender=Fem|Number=Sing|PronType=Dem	ὁ	det	209
+1	209	πίστεως	NOUN	Nb	Case=Gen|Gender=Fem|Number=Sing	πίστις	nmod	207
+1	210	ἀκολουθοῦντες	VERB	V-	Case=Nom|Gender=Masc|Number=Plur|Tense=Pres|VerbForm=Part|Voice=Act	ἀκολουθέω	conj	203
+1	211	·	PUNCT	Z		·	punct	172
+1	212	ἔτι	ADV	Df		ἔτι	discourse	220
+1	213	δὲ	ADV	Df		δέ	discourse	220
+1	214	κᾀγὼ	PRON	Pp	Case=Nom|Gender=Masc|Number=Sing|Person=1|PronType=Prs	κᾀγὼ	nsubj	220
+1	215	ὁ	DET	S-	Case=Nom|Definite=Def|Gender=Masc|Number=Sing|PronType=Dem	ὁ	det	216
+1	216	μικρότερος	ADJ	A-	Case=Nom|Degree=Cmp|Gender=Masc|Number=Sing	μικρότερος	appos	214
+1	217	πάντων	DET	Px	Case=Gen|Gender=Masc,Neut|Number=Plur	πᾶς	det	218
+1	218	ὑμῶν	PRON	Pp	Case=Gen|Gender=Masc|Number=Plur|Person=2|PronType=Prs	ὑμεῖς	nmod	216
+1	219	Πολυκράτης	PROPN	Ne	Case=Nom|Gender=Masc|Number=Sing	Πολυκράτης	appos	216
+1	220	,	PUNCT	Z		,	advcl	172
+1	221	κατὰ	ADP	R-		κατά	case	222
+1	222	παράδοσιν	NOUN	Nb	Case=Acc|Gender=Fem|Number=Sing	παράδοσις	obl	220
+1	223	τῶν	DET	S-	Case=Gen|Definite=Def|Gender=Masc|Number=Plur|PronType=Dem	ὁ	det	224
+1	224	συγγενῶν	ADJ	A-	Case=Gen|Degree=Pos|Gender=Masc|Number=Plur	συγγενής	nmod	222
+1	225	μου	PRON	Pp	Case=Gen|Gender=Masc|Number=Sing|Person=1|PronType=Prs	ἐγώ	det	224
+1	226	,	PUNCT	Z		,	advcl	172
+1	227	οἷς	PRON	Pr	Case=Dat|Gender=Masc|Number=Plur|PronType=Rel	ὅς	iobj	229
+1	228	καὶ	ADV	Df		καί	advmod	229
+1	229	παρηκολούθησα	VERB	V-	Aspect=Perf|Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin|Voice=Act	παρηκολούθησα	advcl	172
+1	230	τισὶν	ADJ	Px	Case=Dat|Gender=Masc|Number=Plur	τίς	iobj	229
+1	231	αὐτῶν	PRON	Pp	Case=Gen|Gender=Masc|Number=Plur|Person=3|PronType=Prs	αὐτός	nmod	230
+1	232	.	PUNCT	Z		.	punct	172
+1	233	ἑπτὰ	NUM	Ma		ἑπτά	nummod	238
+1	234	μὲν	ADV	Df		μέν	discourse	233
+1	235	ἦσαν	AUX	V-	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	εἰμί	cop	238
+1	236	συγγενεῖς	ADJ	A-	Case=Nom|Degree=Pos|Gender=Masc|Number=Plur	συγγενής	nsubj	238
+1	237	μου	PRON	Pp	Case=Gen|Gender=Masc|Number=Sing|Person=1|PronType=Prs	ἐγώ	det	236
+1	238	ἐπίσκοποι	NOUN	Nb	Case=Nom|Gender=Masc|Number=Plur	ἐπίσκοπος	advcl	172
+1	239	,	PUNCT	Z		,	punct	172
+1	240	ἐγὼ	PRON	Pp	Case=Nom|Gender=Masc|Number=Sing|Person=1|PronType=Prs	ἐγώ	nsubj	242
+1	241	δὲ	ADV	Df		δέ	discourse	242
+1	242	ὄγδοος	ADJ	Mo	Case=Nom|Gender=Masc|Number=Sing	ὄγδοος	advcl	172
+1	243	·	PUNCT	Z		·	punct	172
+1	244	καὶ	CCONJ	C-		καί	cc	248
+1	245	πάντοτε	ADV	Df		πάντοτε	advmod	248
+1	246	τὴν	DET	S-	Case=Acc|Definite=Def|Gender=Fem|Number=Sing|PronType=Dem	ὁ	det	247
+1	247	ἡμέραν	NOUN	Nb	Case=Acc|Gender=Fem|Number=Sing	ἡμέρα	obj	248
+1	248	ἤγαγον	VERB	V-	Aspect=Perf|Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	ἄγω	advcl	172
+1	249	οἱ	DET	S-	Case=Nom|Definite=Def|Gender=Masc|Number=Plur|PronType=Dem	ὁ	det	250
+1	250	συγγενεῖς	ADJ	A-	Case=Nom|Degree=Pos|Gender=Masc|Number=Plur	συγγενής	nsubj	248
+1	251	μου	PRON	Pp	Case=Gen|Gender=Masc|Number=Sing|Person=1|PronType=Prs	ἐγώ	det	250
+1	252	,	PUNCT	Z		,	advmod	248
+1	253	ὅταν	ADV	Dq	PronType=Rel	ὅταν	advmod	256
+1	254	ὁ	DET	S-	Case=Nom|Definite=Def|Gender=Masc|Number=Sing|PronType=Dem	ὁ	det	255
+1	255	λαὸς	NOUN	Nb	Case=Nom|Gender=Masc|Number=Sing	λαός	nsubj	256
+1	256	ἤρνυε	VERB	V-	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	ἤρνυε	advcl	248
+1	257	τὴν	DET	S-	Case=Acc|Definite=Def|Gender=Fem|Number=Sing|PronType=Dem	ὁ	det	258
+1	258	ζύμην	NOUN	Nb	Case=Acc|Gender=Fem|Number=Sing	ζύμη	obj	256
+1	259	.	PUNCT	Z		.	punct	248
+1	260	ἐγὼ	PRON	Pp	Case=Nom|Gender=Masc|Number=Sing|Person=1|PronType=Prs	ἐγώ	nsubj:pass	262
+1	261	οὖν	ADV	Df		οὖν	discourse	260
+1	262	,	PUNCT	Z		,	parataxis	172
+1	263	ἀδελφοὶ	NOUN	Nb	Case=Voc|Gender=Masc|Number=Plur	ἀδελφός	vocative	172
+1	264	,	PUNCT	Z		,	advmod	268
+1	265	ἑξήκοντα	NUM	Ma		ἑξήκοντα	nummod	267
+1	266	πέντε	NUM	Ma		πέντε	nummod	267
+1	267	ἔτη	NOUN	Nb	Case=Acc|Gender=Neut|Number=Plur	ἔτος	obj	268
+1	268	ἔχων	VERB	V-	Case=Nom|Gender=Masc|Number=Sing|Tense=Pres|VerbForm=Part|Voice=Act	ἔχω	advcl	172
+1	269	ἐν	ADP	R-		ἐν	case	270
+1	270	Κυρίῳ	NOUN	Nb	Case=Dat|Gender=Masc|Number=Sing	Κύριος	obl	268
+1	271	·	PUNCT	Z		·	punct	172
+1	272	καὶ	CCONJ	C-		καί	cc	273
+1	273	συμβεβληκὼς	VERB	V-	Aspect=Perf|Case=Nom|Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part|Voice=Act	συμβεβληκὼς	advcl	172
+1	274	τοῖς	DET	S-	Case=Dat|Definite=Def|Gender=Masc,Neut|Number=Plur|PronType=Dem	ὁ	det	278
+1	275	ἀπὸ	ADP	R-		ἀπό	case	277
+1	276	τῆς	DET	S-	Case=Gen|Definite=Def|Gender=Fem|Number=Sing|PronType=Dem	ὁ	det	277
+1	277	οἰκουμένης	NOUN	Nb	Case=Gen|Gender=Fem|Number=Sing	οἰκουμένη	nmod	278
+1	278	ἀδελφοῖς	NOUN	Nb	Case=Dat|Gender=Masc|Number=Plur	ἀδελφός	iobj	273
+1	279	·	PUNCT	Z		·	punct	172
+1	280	καὶ	CCONJ	C-		καί	cc	284
+1	281	πᾶσαν	DET	Px	Case=Acc|Gender=Fem|Number=Sing	πᾶς	det	283
+1	282	ἁγίαν	ADJ	A-	Case=Acc|Degree=Pos|Gender=Fem|Number=Sing	ἅγιος	amod	283
+1	283	γραφὴν	NOUN	Nb	Case=Acc|Gender=Fem|Number=Sing	γραφή	obj	284
+1	284	διεληλυθὼς	VERB	V-	Aspect=Perf|Case=Nom|Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part|Voice=Act	διέρχομαι	advcl	285
+1	285	,	PUNCT	Z		,	punct	172
+1	286	οὐ	ADV	Df	Polarity=Neg	οὐ	advmod	287
+1	287	πτύρομαι	VERB	V-	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Pass	πτύρω	advcl	172
+1	288	ἐπὶ	ADP	R-		ἐπί	case	290
+1	289	τοῖς	DET	S-	Case=Dat|Definite=Def|Gender=Masc,Neut|Number=Plur|PronType=Dem	ὁ	det	290
+1	290	καταπλησσομένοις	VERB	V-	Case=Dat|Gender=Neut|Number=Plur|Tense=Pres|VerbForm=Part|Voice=Pass	καταπλησσομένος	obl	287
+1	291	.	PUNCT	Z		.	punct	172
+1	292	οἱ	DET	S-	Case=Nom|Definite=Def|Gender=Masc|Number=Plur|PronType=Dem	ὁ	det	295
+1	293	γὰρ	ADV	Df		γάρ	discourse	296
+1	294	ἐμοῦ	PRON	Pp	Case=Gen|Gender=Masc|Number=Sing|Person=1|PronType=Prs	ἐμός	nmod	295
+1	295	μείζονες	ADJ	A-	Case=Nom|Degree=Cmp|Gender=Masc|Number=Plur	μέγας	nsubj	296
+1	296	εἰρήκάσι	VERB	V-	Aspect=Perf|Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	εἰρήκάς	parataxis	172
+1	297	,	PUNCT	Z		,	ccomp	299
+1	298	πειθαρχεῖν	VERB	V-	Tense=Pres|VerbForm=Inf|Voice=Act	πειθαρχέω	ccomp	299
+1	299	δεῖ	VERB	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	δεῖ	parataxis	172
+1	300	Θεῷ	NOUN	Nb	Case=Dat|Gender=Masc|Number=Sing	θεός	dep	299
+1	301	μᾶλλον	ADV	Df	Degree=Cmp	μᾶλλον	advmod	299
+1	302	ἢ	ADV	Df		ἤ	advmod	301
+1	303	ἀνθρώποις	NOUN	Nb	Case=Dat|Gender=Masc|Number=Plur	ἄνθρωπος	iobj	302
+1	304	.	PUNCT	Z		.	punct	172
+1	305	Ἐδυνάμην	VERB	V-	Aspect=Imp|Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin|Voice=Mid	Ἐδυνάμη	advcl	172
+1	306	δὲ	ADV	Df		δέ	discourse	305
+1	307	τῶν	DET	S-	Case=Gen|Definite=Def|Gender=Masc|Number=Plur|PronType=Dem	ὁ	det	308
+1	308	ἐπισκόπων	NOUN	Nb	Case=Gen|Gender=Masc|Number=Plur	ἐπισκόπω	iobj	311
+1	309	τῶν	DET	S-	Case=Gen|Definite=Def|Gender=Masc|Number=Plur|PronType=Dem	ὁ	det	310
+1	310	συμπαρόντων	VERB	V-	Case=Gen|Gender=Masc|Number=Plur|Tense=Pres|VerbForm=Part|Voice=Act	συμπάρειμι	appos	308
+1	311	μνημονεῦσαι	VERB	V-	Aspect=Perf|Tense=Past|VerbForm=Inf|Voice=Mid	μνημονεύω	xcomp	305
+1	312	,	PUNCT	Z		,	advcl	172
+1	313	οὓς	PRON	Pr	Case=Acc|Gender=Masc|Number=Plur|PronType=Rel	ὅς	obj	315
+1	314	ὑμεῖς	PRON	Pp	Case=Nom|Gender=Masc|Number=Plur|Person=2|PronType=Prs	ὑμεῖς	nsubj	315
+1	315	ἠξιώσατε	VERB	V-	Aspect=Perf|Mood=Ind|Number=Plur|Person=2|Tense=Past|VerbForm=Fin|Voice=Act	ἐξιόω	acl	312
+1	316	μετακληθῆναι	VERB	V-	Aspect=Perf|Tense=Past|VerbForm=Inf|Voice=Pass	μετακληθῆναι	xcomp	315
+1	317	ὑπ’	ADP	R-		ὑπ’	dep	312
+1	318	ἐμοῦ	PRON	Pp	Case=Gen|Gender=Masc|Number=Sing|Person=1|PronType=Prs	ἐμός	det	317
+1	319	,	PUNCT	Z		,	parataxis	172
+1	320	καὶ	CCONJ	C-		καί	cc	172
+1	321	μετεκαλεσάμην	VERB	V-	Aspect=Perf|Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin|Voice=Mid	μετεκαλεσάμη	conj	172
+1	322	·	PUNCT	Z		·	punct	172
+1	323	ὧν	PRON	Pr	Case=Gen|Gender=Masc|Number=Plur|PronType=Rel	ὅς	det	325
+1	324	τὰ	DET	S-	Case=Nom|Definite=Def|Gender=Neut|Number=Plur|PronType=Dem	ὁ	det	325
+1	325	ὀνόματα	NOUN	Nb	Case=Nom|Gender=Neut|Number=Plur	ὄνομα	nsubj	327
+1	326	ἐὰν	SCONJ	G-		ἐάν	mark	327
+1	327	γράφω	VERB	V-	Mood=Sub|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	γράφω	advcl	172
+1	328	,	PUNCT	Z		,	advmod	330
+1	329	πολλὰ	ADJ	A-	Case=Nom|Degree=Pos|Gender=Neut|Number=Plur	πολύς	advmod	330
+1	330	πλήθη	NOUN	Nb	Case=Nom|Gender=Neut|Number=Plur	πλῆθος	ROOT	330
+1	331	εἰσίν	AUX	V-	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	εἰμί	cop	330
+1	332	.	PUNCT	Z		.	punct	330
+1	333	οἱ	PRON	Pp	Case=Nom|Gender=Masc|Number=Plur|Person=3|PronType=Prs	ὁ	nsubj	340
+1	334	δὲ	ADV	Df		δέ	discourse	340
+1	335	ἰδόντες	VERB	V-	Aspect=Perf|Case=Nom|Gender=Masc|Number=Plur|Tense=Past|VerbForm=Part|Voice=Act	ὁράω	advcl	340
+1	336	τὸν	DET	S-	Case=Acc|Definite=Def|Gender=Masc|Number=Sing|PronType=Dem	ὁ	det	339
+1	337	μικρόν	ADJ	A-	Case=Acc|Degree=Pos|Gender=Masc|Number=Sing	μικρός	amod	339
+1	338	μου	PRON	Pp	Case=Gen|Gender=Masc|Number=Sing|Person=1|PronType=Prs	ἐγώ	det	339
+1	339	ἄνθρωπον	NOUN	Nb	Case=Acc|Gender=Masc|Number=Sing	ἄνθρωπος	obj	335
+1	340	,	PUNCT	Z		,	ROOT	340
+1	341	συνηυδόκησαν	VERB	V-	Aspect=Perf|Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	συνηυδόκησαν	ROOT	341
+1	342	τῇ	DET	S-	Case=Dat|Definite=Def|Gender=Fem|Number=Sing|PronType=Dem	ὁ	det	343
+1	343	ἐπιστολῇ	NOUN	Nb	Case=Dat|Gender=Fem|Number=Sing	ἐπιστολή	iobj	341
+1	344	·	PUNCT	Z		·	punct	341
+1	345	εἰδότες	VERB	V-	Aspect=Perf|Case=Nom|Gender=Masc|Number=Plur|Tense=Past|VerbForm=Part|Voice=Act	οἶδα	advcl	351
+1	346	ὅτι	SCONJ	G-		ὅτι	mark	350
+1	347	εἰκῆ	ADV	Df		εἰκῇ	advmod	350
+1	348	πολιὰς	NOUN	Nb	Case=Acc|Gender=Fem|Number=Plur	πολιά	obj	350
+1	349	οὐκ	ADV	Df	Polarity=Neg	οὐ	advmod	348
+1	350	ἤνεγκα	VERB	V-	Aspect=Perf|Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin|Voice=Act	φέρω	ccomp	345
+1	351	,	PUNCT	Z		,	ROOT	351
+1	352	ἀλλὰ	CCONJ	C-		ἀλλά	cc	351
+1	353	ἐν	ADP	R-		ἐν	case	354
+1	354	Κυρίῳ	NOUN	Nb	Case=Dat|Gender=Masc|Number=Sing	Κύριος	obl	357
+1	355	Ἰησοῦ	PROPN	Ne	Case=Dat|Gender=Masc|Number=Sing	Ἰησοῦς	appos	354
+1	356	πάντοτε	ADV	Df		πάντοτε	advmod	357
+1	357	πεπολίτευμαι	VERB	V-	Aspect=Perf|Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin|Voice=Pass	πολιτεύομαι	conj	351
+1	358	.	PUNCT	Z		.	punct	351
+1	359	Attulit	CCONJ	C-		Attulit	ROOT	359
+1	360	haec	ADV	Df		haec	advmod	359
+1	361	Eusebius	ADV	Df		Eusebius	dislocated	359
+1	362	lib.	PUNCT	Z		lib.	punct	359
+1	363	v.	PUNCT	Z		v.	ROOT	363
+1	364	Hist.	PUNCT	Z		Hist.	ROOT	364
+1	365	cap.	PUNCT	Z		cap.	ROOT	365
+1	366	24.	PUNCT	Z		24.	ROOT	366
